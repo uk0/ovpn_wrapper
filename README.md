@@ -1,6 +1,6 @@
 ### ovpn wrapper
 
-> 适配ubuntu armv8的OpenVPN客户端
+> 适配ubuntu的OpenVPN客户端
 
 * OpenVPN 2.6.14 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] [DCO]
 * library versions: OpenSSL 3.0.13 30 Jan 2024, LZO 2.10
